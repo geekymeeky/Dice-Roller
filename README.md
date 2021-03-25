@@ -1,1 +1,1 @@
-# Dice-Roller
+![Dice-Roller](https://socialify.git.ci/geekymeeky/Dice-Roller/image?description=1&descriptionEditable=Dice%20Roller%20is%20an%20intuitive%2C%20simple%2C%20and%20lightweight%20android%20app%20that%20can%20be%20used%20for%20any%20situation%20that%20requires%20random%20number%20generation.&font=Rokkitt&language=1&owner=1&stargazers=1&theme=Light)
